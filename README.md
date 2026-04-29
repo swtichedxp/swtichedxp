@@ -1,4 +1,3 @@
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=switchedxp)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=switchedxp&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=switchedxp&type=top-repos)
+![swtichedxp's Stats](https://github-readme-stats.vercel.app/api?username=swtichedxp&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![swtichedxp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swtichedxp&theme=nord&hide_border=true)
+![swtichedxp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swtichedxp&theme=nord&show_icons=true&hide_border=true&layout=compact)
